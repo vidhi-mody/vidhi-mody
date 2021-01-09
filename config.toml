@@ -1,0 +1,86 @@
+[meta]
+firstName = "Vidhi"
+lastName = "Parekh"
+role = "Software Developer"
+about = """My career is developing software, but my life is adventuring. I am a curious person who enjoys figuring out the building blocks of the world, and rearranging them to build something even better. ¯\ (ツ) /¯
+
+I’m passionate about building tools to help people save time and do more with their lives. I enjoy writing technical articles and research papers for a number of [publications](https://scholar.google.com/citations?user=IbedRsUAAAAJ&hl=en). You can read my articles at my [blog](https://vidhimody.me/hi/) where I write about software development, computer science, competitive coding, good coding practices and much more.
+
+My goal is to travel the world with just one bag. When I’m not on a computer, I’m probably making pour-over coffee or practicing my zombie apocalypse skills, just not at the same time since shooting arrows through zombie heads makes maintaining a steady pour rate rather difficult."""
+
+[meta.location]
+city = "Mumbai"
+country = "India"
+logo = "https://www.flaticon.com/svg/static/icons/svg/330/330176.svg"
+
+[[social]]
+name = "github"
+url = "https://github.com/vidhi-mody"
+logo = "https://img.shields.io/github/followers/vidhi-mody?label=GitHub&style=social"
+
+[[social]]
+name = "linkedin"
+url = "https://linkedin.com/in/vidhi-m"
+logo = "https://img.shields.io/badge/Linkedin-grey?logo=linkedin&style=social"
+
+[[social]]
+name = "twitter"
+url = "https://twitter.com/vidhi_mody"
+logo = "https://img.shields.io/twitter/follow/vidhi_mody?label=Twitter&style=social"
+
+[[projects]]
+name = "Friend.ly"
+url  = "https://github.com/und3fined-v01d/Friend.ly"
+stars = "https://img.shields.io/github/stars/und3fined-v01d/Friend.ly?style=plastic&labelColor=343b41"
+forks = "https://img.shields.io/github/forks/und3fined-v01d/Friend.ly?style=plastic&labelColor=343b41"
+
+[[projects]]
+name = "Apply By AI"
+url = "https://github.com/vidhi-mody/Apply-By-AI"
+stars = "https://img.shields.io/github/stars/vidhi-mody/Apply-By-AI?style=plastic&labelColor=343b41"
+forks = "https://img.shields.io/github/forks/vidhi-mody/Apply-By-AI?style=plastic&labelColor=343b41"
+
+[[projects]]
+name = "Persona a MEAN Stack Application"
+url = "https://github.com/vidhi-mody/Persona-A-MEAN-Stack-Application"
+stars = "https://img.shields.io/github/stars/vidhi-mody/Persona-A-MEAN-Stack-Application?style=plastic&labelColor=343b41"
+forks = "https://img.shields.io/github/forks/vidhi-mody/Persona-A-MEAN-Stack-Application?style=plastic&labelColor=343b41"
+
+[technologies]
+react = "https://img.shields.io/badge/React-black?logo=react&style=plastic"
+webpack = "https://img.shields.io/badge/Webpack-black?logo=webpack&style=plastic"
+snowflake = "https://img.shields.io/badge/Snowflake-black?logo=snowflake&style=plastic"
+docker = "https://img.shields.io/badge/Docker-black?logo=docker&style=plastic"
+kubernetes = "https://img.shields.io/badge/Kubernetes-black?logo=kubernetes&style=plastic"
+github-actions = "https://img.shields.io/badge/Github%20Actions-black?logo=github-actions&style=plastic"
+google-cloud-platform = "https://img.shields.io/badge/GCP-black?logo=google-cloud&style=plastic"
+typescript = "https://img.shields.io/badge/Typescript-black?logo=typescript&style=plastic"
+apollo = "https://img.shields.io/badge/Apollo-black?logo=apollo-graphql&style=plastic"
+heroku = "https://img.shields.io/badge/Heroku-black?logo=heroku&style=plastic"
+redux = "https://img.shields.io/badge/Redux-black?logo=redux&style=plastic"
+graphql = "https://img.shields.io/badge/GraphQL-black?logo=graphql&style=plastic"
+tensorflow = "https://img.shields.io/badge/Tensorflow-black?logo=tensorflow&style=plastic"
+sass = "https://img.shields.io/badge/Sass-black?logo=sass&style=plastic"
+styled-components = "https://img.shields.io/badge/Styled%20components-black?logo=styled-components&style=plastic"
+git = "https://img.shields.io/badge/Git-black?logo=git&style=plastic"
+nestjs = "https://img.shields.io/badge/Nestjs-black?logo=nestjs&style=plastic"
+npm = "https://img.shields.io/badge/npm-black?logo=npm&style=plastic"
+brave = "https://img.shields.io/badge/Brave-black?logo=brave&style=plastic"
+prettier = "https://img.shields.io/badge/Prettier-black?logo=prettier&style=plastic"
+mongodb = "https://img.shields.io/badge/MongoDB-black?logo=mongodb&style=plastic"
+nodejs = "https://img.shields.io/badge/Node.js-black?logo=node.js&style=plastic"
+deno = "https://img.shields.io/badge/Deno-black?logo=deno&style=plastic"
+ansible = "https://img.shields.io/badge/Ansible-black?logo=ansible&style=plastic"
+vagrant = "https://img.shields.io/badge/Vagrant-black?logo=vagrant&style=plastic"
+go = "https://img.shields.io/badge/Go-black?logo=go&style=plastic"
+python = "https://img.shields.io/badge/Python-black?logo=python&style=plastic"
+fastify = "https://img.shields.io/badge/Fastify-black?logo=fastify&style=plastic"
+vscode = "https://img.shields.io/badge/VSCode-black?logo=visual-studio-code&style=plastic"
+gatsby = "https://img.shields.io/badge/Gatsby-black?logo=gatsby&style=plastic"
+amazon-aws = "https://img.shields.io/badge/AWS-black?logo=amazon-aws&style=plastic"
+circleci = "https://img.shields.io/badge/CircleCI-black?logo=circleci&style=plastic"
+codacy = "https://img.shields.io/badge/Codacy-black?logo=codacy&style=plastic"
+cypress = "https://img.shields.io/badge/Cypress-black?logo=cypress&style=plastic"
+duck-duck-go = "https://img.shields.io/badge/DuckDuckGo-black?logo=duckduckgo&style=plastic"
+elastic-stack = "https://img.shields.io/badge/Elastic%20Stack-black?logo=elastic-stack&style=plastic"
+eslint = "https://img.shields.io/badge/ESLint-black?logo=eslint&style=plastic"

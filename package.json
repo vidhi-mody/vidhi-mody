@@ -1,0 +1,42 @@
+{
+  "name": "vidhi-mody",
+  "version": "1.0.0",
+  "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and EJS.",
+  "main": "index.js",
+  "scripts": {
+    "start:local": "NODE_ENV=local node index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidhi-mody/vidhi-mody.git"
+  },
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
+  "author": "Vidhi Mody <vidhimody6@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidhi-mody/vidhi-mody/issues"
+  },
+  "homepage": "https://github.com/vidhi-mody/vidhi-mody#readme",
+  "dependencies": {
+    "algoliasearch": "4.8.3",
+    "dotenv": "^8.2.0",
+    "ejs": "3.1.5",
+    "lodash": "^4.17.20",
+    "toml": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1"
+  }
+}

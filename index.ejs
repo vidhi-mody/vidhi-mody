@@ -1,0 +1,66 @@
+<h1>Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+
+<p align="center">Welcome to my page! </br> I'm <%= meta.firstName %>, a <%= meta.role %> from <img src="<%= meta.location.logo %>" width="13"/> <b><%= meta.location.city %>, <%= meta.location.country %></b>.</p>
+
+<p>
+    <%= meta.about %>
+</p>
+
+<img src="static/hi.gif" alt="hey" />
+
+<!-- TECHNOLOGIES -->
+<h3>:zap: Technologies</h3>
+
+<p>
+<% for(const [name, logo] of Object.entries(technologies)) { %><img alt="<%= name %>" src="<%= logo %>" /> <% } %>
+</p>
+
+<!-- PROJECTS -->
+<h3>:computer: Open Source Projects</h3>
+
+<table>
+    <thead>
+        <td>🎁 Project </td>
+        <td> ⭐ Stars </td>
+        <td> 📚 Forks </td>
+    </thead>
+    <% for(const project of projects) { %><tr>
+        <td><a href="<%= project.url %>"><%= project.name %></a></td>
+        <td><img src="<%= project.stars %>" /></td>
+        <td><img src="<%= project.forks %>" /></td>
+    </tr><% } %>
+</table>
+
+<!-- POSTS -->
+<h3>:mailbox_with_mail: Writing</h3>
+
+<ul>
+    <% for(const post of posts) { %><li>
+        <a href="<%= post.url %>"><b><%= post.title %></b></a>
+    </li><% } %>
+</ul>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- SOCIAL -->
+<h3>:milky_way: Find me in the 'verse</h3>
+
+<p>
+    <% for(const { name, url, logo } of social) { %><a href="<%= url %>" target="_blank">
+        <img alt="<%= name %>" src="<%= logo %>" />
+    </a><% } %>
+</p>
+
+<hr />
+
+<!-- FOOTER -->
+<p align="center">
+    This <i>README</i> file is generated <b>every 24 hours</b>!</br>
+    Last refresh: <%= lastRunOn %><br />
+</p>
+<p align="center">
+    <img src="https://github.com/vidhi-mody/vidhi-mody/workflows/README%20build/badge.svg" /> 
+    <img alt="Stars" src="https://img.shields.io/github/stars/vidhi-mody/vidhi-mody?style=flat-square&labelColor=343b41"/> 
+    <img alt="Forks" src="https://img.shields.io/github/forks/vidhi-mody/vidhi-mody?style=flat-square&labelColor=343b41"/>
+</p>
