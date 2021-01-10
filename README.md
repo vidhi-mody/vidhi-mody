@@ -10,7 +10,7 @@ I’m passionate about building tools to help people save time and do more with 
 My goal is to travel the world with just one bag. When I’m not on a computer, I’m probably making pour-over coffee or practicing my zombie apocalypse skills, just not at the same time since shooting arrows through zombie heads makes maintaining a steady pour rate rather difficult.
 </p>
 
-<centre><img style="width: 50%;" src="static/hi.gif" alt="hey" /></centre>
+<img align="center" style="width: 50%; display: block; margin-left: auto; margin-right: auto;" src="static/hi.gif" alt="hey" />
 
 <!-- TECHNOLOGIES -->
 <h3>:zap: Technologies</h3>
@@ -81,7 +81,7 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 <!-- FOOTER -->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 2021-01-10T09:07:16.919Z<br />
+    Last refresh: 2021-01-10T11:07:12.907Z<br />
 </p>
 <p align="center">
     <img src="https://github.com/vidhi-mody/vidhi-mody/workflows/README%20build/badge.svg" /> 
