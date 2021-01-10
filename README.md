@@ -10,7 +10,7 @@ I’m passionate about building tools to help people save time and do more with 
 My goal is to travel the world with just one bag. When I’m not on a computer, I’m probably making pour-over coffee or practicing my zombie apocalypse skills, just not at the same time since shooting arrows through zombie heads makes maintaining a steady pour rate rather difficult.
 </p>
 
-<img align="center" style="width: 50%; display: block; margin-left: auto; margin-right: auto;" src="static/hi.gif" alt="hey" />
+<img style="width: 50%; display: block; margin-left: auto; margin-right: auto;" src="static/hi.gif" alt="hey" />
 
 <!-- TECHNOLOGIES -->
 <h3>:zap: Technologies</h3>
