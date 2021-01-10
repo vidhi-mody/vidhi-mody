@@ -44,7 +44,7 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 </table>
 
 <!-- POSTS -->
-<h3>:mailbox_with_mail: Writing</h3>
+<h3>:mailbox_with_mail: Blogs</h3>
 
 <ul>
     <li>
