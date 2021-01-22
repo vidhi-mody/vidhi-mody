@@ -8,7 +8,14 @@ const { promises: fs } = require('fs')
 const _ = require('lodash')
 const toml = require('toml')
 
-const getRecentPosts = async (index) => {
+const getRecentPosts = async () => {
+  const client = algoliasearch(
+    process.env.ALGOLIA_APPLICATION_ID,
+    process.env.ALGOLIA_API_KEY
+  )
+
+  const index = client.initIndex(process.env.ALGOLIA_INDEX)
+
   const { hits } = await index.search('', {
     getRankingInfo: true,
     analytics: false,
@@ -46,14 +53,7 @@ const parseProperties = async (filePath) => {
 }
 
 const main = async () => {
-  const client = algoliasearch(
-    process.env.ALGOLIA_APPLICATION_ID,
-    process.env.ALGOLIA_API_KEY
-  )
-
-  const index = client.initIndex(process.env.ALGOLIA_INDEX)
-
-  const posts = await getRecentPosts(index)
+  const posts = await getRecentPosts()
 
   const propertiesObj = await parseProperties('./config.toml')
 
