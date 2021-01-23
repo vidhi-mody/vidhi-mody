@@ -10,7 +10,7 @@ I’m passionate about building tools to help people save time and do more with 
 My goal is to travel the world with just one bag. When I’m not on a computer, I’m probably making pour-over coffee or practicing my zombie apocalypse skills, just not at the same time since shooting arrows through zombie heads makes maintaining a steady pour rate rather difficult.
 </p>
 
-<img style="width: 50%; display: block; margin-left: auto; margin-right: auto;" src="static/hi.gif" alt="hey" />
+<img align="center" style="width: 50%; display: block; margin-left: auto; margin-right: auto;" src="static/hi.gif" alt="hey" />
 
 <!-- TECHNOLOGIES -->
 <h3>:zap: Technologies</h3>
@@ -44,10 +44,12 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 </table>
 
 <!-- POSTS -->
-<h3>:mailbox_with_mail: Blogs</h3>
+<h3>:mailbox_with_mail: Writing</h3>
 
 <ul>
     <li>
+        <a href="https://www.vidhimody.me/blog/2021-01-22-git-commited-for-life/"><b>git: committed for life</b></a>
+    </li><li>
         <a href="https://www.vidhimody.me/blog/2021-01-07-blogging-the-reel-world/"><b>Blogging the Reel World</b></a>
     </li><li>
         <a href="https://www.vidhimody.me/blog/2020-12-31-memories/"><b>Hold on to the memories they will hold on to you!</b></a>
@@ -55,20 +57,11 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
         <a href="https://www.vidhimody.me/blog/2020-08-26-gsocpedia-final-chapter/"><b>GSoCpedia: Final Chapter</b></a>
     </li><li>
         <a href="https://www.vidhimody.me/blog/2020-07-29-gsocpedia-chapter-six/"><b>GSoCpedia: Chapter Six</b></a>
-    </li><li>
-        <a href="https://www.vidhimody.me/blog/2020-07-18-gsocpedia-chapter-five/"><b>GSoCpedia: Chapter Five</b></a>
     </li>
 </ul>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vidhi-mody&color=blue)
-![Profile Views](https://komarev.com/ghpvc/?username=vidhi-mody)
-
-<a align="center" href="https://vidhi-mody.netlify.app/">
-    <img src="https://github-readme-stats.vercel.app/api?username=vidhi-mody&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhi-mody&layout=compact&theme=tokyonight" alt="languages" height="165">
-</a>
 
 <!-- SOCIAL -->
 <h3>:milky_way: Find me in the 'verse</h3>
@@ -88,7 +81,7 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 <!-- FOOTER -->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 2021-01-10T11:07:12.907Z<br />
+    Last refresh: 2021-01-23T09:28:49.605Z<br />
 </p>
 <p align="center">
     <img src="https://github.com/vidhi-mody/vidhi-mody/workflows/README%20build/badge.svg" /> 
