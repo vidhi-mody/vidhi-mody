@@ -62,6 +62,12 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=vidhi-mody&color=blue"/>
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=vidhi-mody"/>
+
+<a align="center" href="https://vidhi-mody.netlify.app/">
+    <img src="https://github-readme-stats.vercel.app/api?username=vidhi-mody&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhi-mody&layout=compact&theme=tokyonight" alt="languages" height="165">
+</a>
 
 <!-- SOCIAL -->
 <h3>:milky_way: Find me in the 'verse</h3>
@@ -81,7 +87,7 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 <!-- FOOTER -->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 2021-01-23T09:45:07.912Z<br />
+    Last refresh: 2021-01-23T10:01:39.940Z<br />
 </p>
 <p align="center">
     <img src="https://github.com/vidhi-mody/vidhi-mody/workflows/README%20build/badge.svg" /> 
