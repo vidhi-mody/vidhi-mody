@@ -75,6 +75,7 @@ scikit-learn = "https://img.shields.io/badge/Scikit%20Learn-black?logo=scikit-le
 tensorflow = "https://img.shields.io/badge/Tensorflow-black?logo=tensorflow&style=plastic"
 jest = "https://img.shields.io/badge/Jest-black?logo=jest&style=plastic"
 cypress = "https://img.shields.io/badge/Cypress-black?logo=cypress&style=plastic"
+selenium = "https://img.shields.io/badge/Selenium-black?logo=selenium&style=plastic"
 elastic-stack = "https://img.shields.io/badge/Elastic%20Stack-black?logo=elastic-stack&style=plastic"
 eslint = "https://img.shields.io/badge/ESLint-black?logo=eslint&style=plastic"
 vscode = "https://img.shields.io/badge/VSCode-black?logo=visual-studio-code&style=plastic"
