@@ -47,10 +47,10 @@ stars = "https://img.shields.io/github/stars/vidhi-mody/Persona-A-MEAN-Stack-App
 forks = "https://img.shields.io/github/forks/vidhi-mody/Persona-A-MEAN-Stack-Application?style=plastic&labelColor=343b41"
 
 [[projects]]
-name = "Empower"
-url = "https://github.com/vidhi-mody/Empower"
-stars = "https://img.shields.io/github/stars/vidhi-mody/Empower?style=plastic&labelColor=343b41"
-forks = "https://img.shields.io/github/forks/vidhi-mody/Empower?style=plastic&labelColor=343b41"
+name = "DSA"
+url = "https://github.com/vidhi-mody/DSA"
+stars = "https://img.shields.io/github/stars/vidhi-mody/DSA?style=plastic&labelColor=343b41"
+forks = "https://img.shields.io/github/forks/vidhi-mody/DSA?style=plastic&labelColor=343b41"
 
 [technologies]
 python = "https://img.shields.io/badge/Python-black?logo=python&style=plastic"
