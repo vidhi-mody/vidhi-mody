@@ -93,7 +93,7 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 <!-- FOOTER -->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 2021-02-14T00:41:24.135Z<br />
+    Last refresh: 2021-02-15T00:40:30.085Z<br />
 </p>
 <p align="center">
     <img src="https://github.com/vidhi-mody/vidhi-mody/workflows/README%20build/badge.svg" /> 
