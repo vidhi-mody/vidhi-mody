@@ -41,10 +41,10 @@ stars = "https://img.shields.io/github/stars/vidhi-mody/Apply-By-AI?style=plasti
 forks = "https://img.shields.io/github/forks/vidhi-mody/Apply-By-AI?style=plastic&labelColor=343b41"
 
 [[projects]]
-name = "Persona a MEAN Stack Application"
-url = "https://github.com/vidhi-mody/Persona-A-MEAN-Stack-Application"
-stars = "https://img.shields.io/github/stars/vidhi-mody/Persona-A-MEAN-Stack-Application?style=plastic&labelColor=343b41"
-forks = "https://img.shields.io/github/forks/vidhi-mody/Persona-A-MEAN-Stack-Application?style=plastic&labelColor=343b41"
+name = "Wanda Vision"
+url = "https://github.com/vrushti-mody/WandaVision"
+stars = "https://img.shields.io/github/stars/vrushti-mody/WandaVision?style=plastic&labelColor=343b41"
+forks = "https://img.shields.io/github/forks/vrushti-mody/WandaVision?style=plastic&labelColor=343b41"
 
 [[projects]]
 name = "DSA"
