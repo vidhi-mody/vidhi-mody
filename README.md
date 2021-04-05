@@ -1,4 +1,4 @@
-<h1>Hey there! <img src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif" width="30"/></h1>
+<h1>Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <p align="center">Welcome to my page! </br> I'm Vidhi, a Software Developer from <img src="https://www.flaticon.com/svg/static/icons/svg/330/330176.svg" width="13"/> <b>Mumbai, India</b>.</p>
 
@@ -10,7 +10,7 @@ I’m passionate about building tools to help people save time and do more with 
 My goal is to travel the world with just one bag. When I’m not on a computer, I’m probably making pour-over coffee or practicing my zombie apocalypse skills, just not at the same time since shooting arrows through zombie heads makes maintaining a steady pour rate rather difficult.
 </p>
 
-<img align="center" style="width: 50%; display: block; margin-left: auto; margin-right: auto;" src="static/hi.gif" alt="hey" />
+<img align="center" style="width: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif" alt="hey" />
 
 <!-- TECHNOLOGIES -->
 <h3>:zap: Technologies</h3>
@@ -93,7 +93,7 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 <!-- FOOTER -->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 2021-04-05T07:27:08.522Z<br />
+    Last refresh: 2021-04-05T07:34:50.552Z<br />
 </p>
 <p align="center">
     <img src="https://github.com/vidhi-mody/vidhi-mody/workflows/README%20build/badge.svg" /> 
