@@ -1,4 +1,4 @@
-<h1>Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1>Hey there! <img src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif" width="30"/></h1>
 
 <p align="center">Welcome to my page! </br> I'm Vidhi, a Software Developer from <img src="https://www.flaticon.com/svg/static/icons/svg/330/330176.svg" width="13"/> <b>Mumbai, India</b>.</p>
 
@@ -48,7 +48,7 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 </table>
 
 <!-- POSTS -->
-<h3>:mailbox_with_mail: Writing</h3>
+<h3>:mailbox_with_mail: Blogs</h3>
 
 <ul>
     <li>
@@ -93,7 +93,7 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 <!-- FOOTER -->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 2021-04-05T00:17:52.301Z<br />
+    Last refresh: 2021-04-05T07:27:08.522Z<br />
 </p>
 <p align="center">
     <img src="https://github.com/vidhi-mody/vidhi-mody/workflows/README%20build/badge.svg" /> 
