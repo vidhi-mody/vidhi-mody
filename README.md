@@ -54,6 +54,8 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 
 <ul>
     <li>
+        <a href="https://www.vidhimody.me/blog/2021-07-01-blogging-the-reel-world/"><b>Blogging the Reel World 2021 (pt. 1)</b></a>
+    </li><li>
         <a href="https://www.vidhimody.me/blog/2021-03-23-all-aboard-the-mentorship/"><b>All Aboard the MentorShip</b></a>
     </li><li>
         <a href="https://www.vidhimody.me/blog/2021-01-22-git-commited-for-life/"><b>git: committed for life</b></a>
@@ -61,8 +63,6 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
         <a href="https://www.vidhimody.me/blog/2021-01-07-blogging-the-reel-world/"><b>Blogging the Reel World</b></a>
     </li><li>
         <a href="https://www.vidhimody.me/blog/2020-12-31-memories/"><b>Hold on to the memories they will hold on to you!</b></a>
-    </li><li>
-        <a href="https://www.vidhimody.me/blog/2020-08-26-gsocpedia-final-chapter/"><b>GSoCpedia: Final Chapter</b></a>
     </li>
 </ul>
 
@@ -95,7 +95,7 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 <!-- FOOTER -->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 2021-07-01T00:54:42.514Z<br />
+    Last refresh: 2021-07-02T00:51:03.163Z<br />
 </p>
 <p align="center">
     <img src="https://github.com/vidhi-mody/vidhi-mody/workflows/README%20build/badge.svg" /> 
