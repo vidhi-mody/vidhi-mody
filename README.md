@@ -54,7 +54,7 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 
 <ul>
     <li>
-        <a href="https://www.vidhimody.me/blog/2021-07-01-blogging-the-reel-world/"><b>Blogging the Reel World 2021 (pt. 1)</b></a>
+        <a href="https://www.vidhimody.me/blog/2021-07-01-blogging-the-reel-world/"><b>Blogging the Reel World 2021 (pt. 2)</b></a>
     </li><li>
         <a href="https://www.vidhimody.me/blog/2021-03-23-all-aboard-the-mentorship/"><b>All Aboard the MentorShip</b></a>
     </li><li>
@@ -95,7 +95,7 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 <!-- FOOTER -->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 2021-07-03T00:50:52.942Z<br />
+    Last refresh: 2021-07-04T00:53:01.698Z<br />
 </p>
 <p align="center">
     <img src="https://github.com/vidhi-mody/vidhi-mody/workflows/README%20build/badge.svg" /> 
