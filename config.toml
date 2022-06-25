@@ -9,9 +9,9 @@ I’m passionate about building tools to help people save time and do more with 
 My goal is to travel the world with just one bag. When I’m not on a computer, I’m probably making pour-over coffee or practicing my zombie apocalypse skills, just not at the same time since shooting arrows through zombie heads makes maintaining a steady pour rate rather difficult."""
 
 [meta.location]
-city = "Mumbai"
-country = "India"
-logo = "https://www.flaticon.com/svg/static/icons/svg/330/330176.svg"
+city = "San Francisco"
+country = "USA"
+logo = "https://www.flaticon.com/free-icon/united-states_202950"
 
 [[social]]
 name = "github"
