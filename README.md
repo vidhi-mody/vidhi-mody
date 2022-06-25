@@ -1,6 +1,6 @@
 <h1>Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<p align="center">Welcome to my page! </br> I'm Vidhi, a Software Developer from <img src="https://www.flaticon.com/svg/static/icons/svg/330/330176.svg" width="13"/> <b>Mumbai, India</b>.</p>
+<p align="center">Welcome to my page! </br> I'm Vidhi, a Software Developer from <img src="https://www.flaticon.com/free-icon/united-states_202950" width="13"/> <b>San Francisco, USA</b>.</p>
 
 <p>
     My career is developing software, but my life is adventuring. I am a curious person who enjoys figuring out the building blocks of the world, and rearranging them to build something even better. ¯\ (ツ) /¯
@@ -95,7 +95,7 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 <!-- FOOTER -->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 2022-06-24T01:46:21.471Z<br />
+    Last refresh: 2022-06-25T01:22:39.703Z<br />
 </p>
 <p align="center">
     <img src="https://github.com/vidhi-mody/vidhi-mody/workflows/README%20build/badge.svg" /> 
