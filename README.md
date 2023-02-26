@@ -54,6 +54,8 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 
 <ul>
     <li>
+        <a href="https://www.vidhimody.me/blog/2023-02-23-new-girl-in-the-city/"><b>New Girl in the City</b></a>
+    </li><li>
         <a href="https://www.vidhimody.me/blog/2023-01-08-goa/"><b>Day 1</b></a>
     </li><li>
         <a href="https://www.vidhimody.me/blog/2023-01-08-goa/"><b>If happy ever after did exist</b></a>
@@ -61,8 +63,6 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
         <a href="https://www.vidhimody.me/blog/2022-07-09-uber/"><b>Summer 2022: Uber Internship Experience</b></a>
     </li><li>
         <a href="https://www.vidhimody.me/blog/2022-06-04-software-internship/"><b>Software Development Internship - Summer 2022</b></a>
-    </li><li>
-        <a href="https://www.vidhimody.me/blog/2022-03-20-a-road-less-travelled/"><b>The Big Bang Theory</b></a>
     </li>
 </ul>
 
@@ -95,7 +95,7 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 <!-- FOOTER -->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 2023-02-25T01:21:45.401Z<br />
+    Last refresh: 2023-02-26T01:37:11.955Z<br />
 </p>
 <p align="center">
     <img src="https://github.com/vidhi-mody/vidhi-mody/workflows/README%20build/badge.svg" /> 
